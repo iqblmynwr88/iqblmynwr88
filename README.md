@@ -8,7 +8,21 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  <h4><b>G I T H U B &nbsp; S T A T S</b></h4>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h4><i> &nbsp;Who I'am?&nbsp;&nbsp;</h4></i>
+<br />
+<br />
+I am a web developer at a company, and I am a full time employee.
+
+I am also a validator newcomer to a protocol.
+
+maybe that's all, hopefully can answer about who I am
   </div>
 </div>
 
