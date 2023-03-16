@@ -1,18 +1,9 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b>P R O F I L E &nbsp; I N T R O D U C T I O N 👋</b></h4>
-  <hr>
   <img align="top" src="https://komarev.com/ghpvc/?username=iqblmynwr88&color=blueviolet"/>
   </div>
 </div>
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h4><b>G I T H U B &nbsp; S T A T S</b></h4>
-  <hr>
-  </div>
-</div>
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <br />
@@ -24,6 +15,14 @@ I am a web developer at a company, and I am a full time employee.
 I am also a validator newcomer to a protocol.
 
 maybe that's all, hopefully can answer about who I am 🎉
+  </div>
+</div>
+<hr>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h4><b>G I T H U B &nbsp; S T A T S</b></h4>
+  <hr>
   </div>
 </div>
 
