@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h4><b>P R O F I L E &nbsp; I N T R O D U C T I O N</b></h4>
+    <img align="top" src="https://komarev.com/ghpvc/?username=iqblmynwr88&color=blueviolet"/>
 <!--
 **iqblmynwr88/iqblmynwr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
